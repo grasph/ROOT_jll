@@ -54,73 +54,73 @@ function __init__()
     JLLWrappers.@init_library_product(
         libCore,
         "lib/libCore.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libGeom,
         "lib/libGeom.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libGraf,
         "lib/libGraf.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libGraf3d,
         "lib/libGraf3d.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libHist,
         "lib/libHist.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libImt,
         "lib/libImt.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libPhysics,
         "lib/libPhysics.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libPostscript,
         "lib/libPostscript.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libROOTVecOps,
         "lib/libROOTVecOps.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libRint,
         "lib/libRint.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTree,
         "lib/libTree.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTreePlayer,
         "lib/libTreePlayer.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_executable_product(

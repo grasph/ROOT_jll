@@ -6,4 +6,4 @@ os = "linux"
 
     [[ROOT.download]]
     sha256 = "a57bf62dc2a22d6a6cfbc701be05b647ee85fb19ac0a321feed56fea81699f3a"
-    url = "https://github.com/grasph/ROOT_jll/releases/download/ROOT-v6.32.6+1/ROOT.v6.32.6.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/grasph/ROOT_jll/releases/download/ROOT-v6.32.6+2/ROOT.v6.32.6.x86_64-linux-gnu.tar.gz"
