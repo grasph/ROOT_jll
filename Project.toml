@@ -1,6 +1,6 @@
 name = "ROOT_jll"
 uuid = "45b42145-bbac-5752-8807-01f8b2702242"
-version = "6.32.6+3"
+version = "6.32.6+4"
 
 [deps]
 Xorg_libXi_jll = "a51aa0fd-4e3c-5386-b890-e753decda492"
