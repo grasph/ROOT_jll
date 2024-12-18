@@ -1,9 +1,9 @@
 [[ROOT]]
 arch = "x86_64"
-git-tree-sha1 = "695eeb071941db39c7ba358689ce4c28e7b37f8b"
+git-tree-sha1 = "9b48f1aeeaeefccba096f01c778f442a07159bdb"
 libc = "glibc"
 os = "linux"
 
     [[ROOT.download]]
-    sha256 = "df9b23f3beda664f620eed10304aeb9f9dbc6fbe91e176628bb63ecc9def8505"
-    url = "https://github.com/grasph/ROOT_jll/releases/download/ROOT-v6.32.6+5/ROOT.v6.32.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "0ad094dd85e482088bb03196c098b03e32ed331cfe225672377c8b318c96f519"
+    url = "https://github.com/grasph/ROOT_jll/releases/download/ROOT-v6.30.4+0/ROOT.v6.30.4.x86_64-linux-gnu.tar.gz"
