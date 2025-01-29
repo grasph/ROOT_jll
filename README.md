@@ -34,6 +34,7 @@ The following JLL packages are required by `ROOT_jll.jl`:
 * `OpenBLAS_jll`
 * `PCRE2_jll`
 * `VDT_jll`
+* `XRootD_jll`
 * `XZ_jll`
 * `Xorg_libICE_jll`
 * `Xorg_libSM_jll`
