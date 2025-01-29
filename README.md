@@ -28,12 +28,11 @@ The following JLL packages are required by `ROOT_jll.jl`:
 * `Giflib_jll`
 * `Graphviz_jll`
 * `LAPACK_jll`
-* `LibStdCxx_jll`
 * `Libglvnd_jll`
 * `Librsvg_jll`
 * `Lz4_jll`
 * `OpenBLAS_jll`
-* `PCRE_jll`
+* `PCRE2_jll`
 * `VDT_jll`
 * `XZ_jll`
 * `Xorg_libICE_jll`
